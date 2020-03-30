@@ -67,7 +67,7 @@
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
-                    <a href="https://laravel.com/docs">Github Link</a>
+                    <a href="https://github.com/srekh085/Prepr-FullStackChallenge">Github Link</a>
                     <a href="https://prepr.org/">Prepr Home</a>
                 </div>
             @endif
